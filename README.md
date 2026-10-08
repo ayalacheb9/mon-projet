@@ -1,2 +1,1 @@
-# mon-projet
-Atelier Git
+# Mon projet 
